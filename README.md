@@ -1,4 +1,4 @@
-# FOR472-IP-lookup
+# FOR572-IP-lookup
 
 - Clone the repository
 - Enable Developer Mode for Chrome Extensions
